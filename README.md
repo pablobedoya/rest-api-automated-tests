@@ -28,3 +28,4 @@ Este projeto contém testes automatizados para uma [API REST](http://dummy.resta
 ### Gerar relatório de execução dos testes
 * Após a execução dos testes, rodar o comando Maven: `mvn cluecumber-report:reporting`
 
+**Nota:** Após a execução do comando de geração do relatório de execução dos testes, o relatório estará acessível dentro do projeto, no caminho `/target/generated-report/index.html`.
